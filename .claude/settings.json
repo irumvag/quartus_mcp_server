@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "quartus": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\Chairman\\Documents\\1CST_UR Room\\zero\\Quartus2\\quartus_mcp_server.py"
+      ],
+      "env": {
+        "QUARTUS_ROOTDIR": "C:\\altera\\13.1\\quartus",
+        "QUARTUS_ROOTDIR_OVERRIDE": "C:\\altera\\13.1\\quartus"
+      }
+    }
+  }
+}
